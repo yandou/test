@@ -1,4 +1,1 @@
 this is new.txt
-working dir
-add stage
-commit
