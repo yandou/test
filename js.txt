@@ -1,1 +1,3 @@
 this is a demo js.txt
+update js.txt
+这里是中文
