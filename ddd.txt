@@ -30,3 +30,7 @@ master update branch_b
 
 
 这里是合并了wangyanbo分支和主分支的修改。最终修改内容
+
+
+
+这里是在updatearea修改了这个分支内容
