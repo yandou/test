@@ -1,0 +1,14 @@
+this is a demo js.txt
+update js.txt
+this is china
+this is laster add
+
+
+在主分支master上的更新
+
+
+
+
+在分支aaaa下修改了这个文件，用于储藏起来的修改
+
+这里是在temparea分区下修改了这个文件

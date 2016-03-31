@@ -1,0 +1,10 @@
+this is new.txt
+working dir 
+
+
+this is branch abc update
+
+
+在临时分支temp上修改了这个文件
+
+这里是在lastarea分支下修改了这个文件
