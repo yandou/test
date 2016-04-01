@@ -34,3 +34,5 @@ master update branch_b
 
 
 这里是在updatearea修改了这个分支内容
+
+这里是gitignore的内容
