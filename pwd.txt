@@ -1,5 +1,0 @@
-这是gitignore新添内容
-
-再次更新gitignore内容
-
-再次更新gitignore内容
