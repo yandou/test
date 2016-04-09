@@ -1,3 +1,3 @@
 ﻿在master_two上修改了
 
-在master上修改了
+通过rebase后在master_one分支上修改了这个文件
