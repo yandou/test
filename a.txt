@@ -39,3 +39,4 @@ rebase在master_back分支_2
 
 
 暂时修改依稀爱心啊
+修改没有gpg
