@@ -1,3 +1,9 @@
+
+
+[TOC]
+
+
+
 # 一级标题
 ## 二级标题
 ### 三级标题
@@ -13,7 +19,7 @@ javascript:
 function a() {
     return 1;
 }
-[TOC]
+
 ```
 
 大标题
