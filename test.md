@@ -9,7 +9,7 @@
         return 1;
     }
 
-```
+```javascript
 function a() {
     return 1;
 }
