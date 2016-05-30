@@ -93,47 +93,4 @@ dfasddf
 
 
 1. 有序
-2. 有序
-3. 有序
-
-
-
-todolist
-
-- [ ] 未选中
-- [X] 已选中
-
-
-这里是`高亮`的部分
-
-
-
-下面是js代码
-
-```javascript
-function test() {
-return 1;
-}
-```
-
-下面是引用区块
-> 一级引用
->> 二级引用
-> 一级引用
-
-
-
-
-<a id="abc"></a>
-sdfdsf
-测试
-[link]:http://github.com/yandou
-[img]:http://www.xoyo.com/favicon.ico
-[^foot]:这里是脚注文本
-��
-
-测试内容
-����sdf
-heixin的商家
-
-sdfasdf
+this is demo
