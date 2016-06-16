@@ -1,4 +1,4 @@
-[锚点连接][#anchor]  
+[锚点连接][#user-content-anchor]  
 [锚点连接B](#anchor)
 [这里是连接文字](http://www.baidu.com/)  
 [这里是连接文字B][link]  
