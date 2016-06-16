@@ -33,7 +33,7 @@
 
 
 
-<h1 id="anchor"></h1>
+<a id="anchor"></a>
 [#anchor]:这里是锚点
 
 [img]: http://www.github.com/favicon.ico
