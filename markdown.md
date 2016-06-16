@@ -88,3 +88,5 @@ f
 
 <a id="anchor"></a>
 <a id="test"></a>
+
+<h2 id="anchor">标题</h2>
