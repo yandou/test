@@ -4,7 +4,7 @@
 倾斜：*被倾斜文字*  
 加粗倾斜：***被加粗倾斜文字***  
 脚注：[这里是脚注][^footer]  
-锚点：[这里是锚点][#anchor]  
+锚点：[这里是锚点](#anchor)
 链接一：[这里是链接一](http://www.github.com/yandou/)  
 链接二：[这里是链接二][link]  
 图片一：![这里是图片一描述](http://www.github.com/favicon.ico)  
