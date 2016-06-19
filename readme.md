@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 转义：\~  
 删除：~~被删除的文字~~  
 加粗：**被加粗的文字**  
@@ -69,7 +68,7 @@ function fn() {}
 [img]: http://www.github.com/favicon.ico
 [link]: http://www.github.com/yandou/
 [^foot]: 这里是被脚注的文字
-=======
+
 转义：\~  
 删除：~~被删除文字~~  
 加粗：**被加粗文字**  
@@ -149,4 +148,3 @@ function fn() {}
 
 [img]: http://www.github.com/favicon.ico
 [link]: http://www.github.com/yandou/
->>>>>>> origin/master
