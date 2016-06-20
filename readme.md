@@ -62,7 +62,7 @@ function fn() {}
 ```
 
 
-[#anchor]: 这里是锚点
+<div id="anchor"></div>
 [^foot]: 这里是脚注
 [link]: http://www.github.com/yandou/
 [img]: http://www.github.com/favicon.ico
