@@ -68,6 +68,7 @@ todolist:
 function fn() {}
 ```
 
+<div id="anchor"></div>
 [img]: http://www.github.com/favicon.ico
 [link]: http://www.github.com/yandou/
 [^foot]: 这里是脚注解释
