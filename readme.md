@@ -49,3 +49,8 @@ todolist:
 //这里是注释
 function fn() {}
 ```
+
+<div id="anchor"></div>
+[^foot]: 这里是脚注
+[link]: http://www.github.com/yandou/
+[img]: http://www.github.com/favicon.ico
