@@ -10,8 +10,8 @@
 锚点：[这里是锚点](#anchor)  
 链接：[这里是链接](http://www.github.com/yandou/)  
 链接：[这里是链接][link]  
-图片：[这里是图片](http://www.github.com/favicon.ico)  
-图片：[这里是图片][img]  
+图片：![这里是图片](http://www.github.com/favicon.ico)  
+图片：![这里是图片][img]  
 换行：这里是换行  
 段落：这里是段落
 
