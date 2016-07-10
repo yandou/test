@@ -1,4 +1,5 @@
-#7月9日，测试
+#7月10日
+
 转义：\~  
 删除：~~被删除的文字~~  
 加粗：**被加粗的文字**  
@@ -39,22 +40,22 @@
 + 列表
 + 列表
 
-todolist：  
+todolist:  
 - [ ] 未被选中
 - [x] 已被选中
 
-高亮：`这里是被高亮的文字`  
-引用区块：   
+高亮：`这里是被高亮的文字`   
+引用区块:   
 > 这里是区块
 > 这里是区块
 
-代码块：  
+代码块:   
 ```javascript
 //这里是注释
 function fn() {}
 ```
 
 <div id="anchor"></div>
-[link]: http://www.github.com/yandou/
+[^foot]: 这里是脚注
 [img]: http://www.github.com/favicon.ico
-[^foot]: 这里是脚注的内容
+[link]: http://www.github.com/yandou/
