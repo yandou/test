@@ -1,14 +1,13 @@
-#7月11日，实例
+#7月12日
 
 转义：\~  
 删除：~~被删除的文字~~  
 加粗：**被加粗的文字**  
 倾斜：*被倾斜的文字*  
-加粗倾斜：***被加粗倾斜的文字***  
 脚注：[这里是脚注][^foot]  
 锚点：[这里是锚点](#anchor)  
-链接；[这里是链接](http://www.github.com/yandou/)  
-链接；[这里是链接][link]  
+链接：[这里是链接](http://www.github.com/yandou/)  
+链接：[这里是链接][link]  
 图片：![这里是图片](http://www.github.com/favicon.ico)  
 图片：![这里是图片][img]  
 换行：这里是换行  
@@ -23,10 +22,19 @@
 
 大标题
 =
-小标题
+小标题 
 -
 
-列表：   
+---
+
+表格：
+
+|表头|表头|表头|
+|:---|:---:|---:|
+|单元格|单元格|单元格|
+|单元格，内容左对齐|单元格，内容居中对齐|单元格，内容右对齐|
+
+列表：  
 + 列表
 + 列表
 + 列表
@@ -35,24 +43,18 @@ todolist:
 - [ ] 未被选中
 - [x] 已被选中
 
-高亮：`这里是高亮的文字`  
+高亮：`被高亮的文字`   
 引用区块：  
-> 这里是引用区块
-> 这里是引用区块  
+> 区块内容
+> 区块内容  
 
-这里是js代码块：  
+代码块：   
 ```javascript
-//这里是注是
+//这里是注释
 function fn() {}
 ```
 
-这里是css代码块：  
-```css
-body {margin: 0 }
-```
-
 <div id="anchor"></div>
-[^foot]: 这里是脚注
-[link]: http://www.github.com/yandou/
-[img]: http://www.github.com/favicon.ico 
-
+[link]: http:/www.github.com/yandou/
+[img]: http://www.github.com/favicon.ico
+[^foot]: 这里是脚注内容
