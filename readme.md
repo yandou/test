@@ -1,12 +1,14 @@
-#7月12日
+#7月13日
+---
 
 转义：\~  
 删除：~~被删除的文字~~  
 加粗：**被加粗的文字**  
 倾斜：*被倾斜的文字*  
+加粗倾斜：***被加粗倾斜的文字***  
 脚注：[这里是脚注][^foot]  
 锚点：[这里是锚点](#anchor)  
-链接：[这里是链接](http://www.github.com/yandou/)  
+链接；[这里是链接](http://www.github.com/yandou/)  
 链接：[这里是链接][link]  
 图片：![这里是图片](http://www.github.com/favicon.ico)  
 图片：![这里是图片][img]  
@@ -22,12 +24,12 @@
 
 大标题
 =
-小标题 
+小标题
 -
 
 ---
 
-表格：
+表格： 
 
 |表头|表头|表头|
 |:---|:---:|---:|
@@ -35,26 +37,26 @@
 |单元格，内容左对齐|单元格，内容居中对齐|单元格，内容右对齐|
 
 列表：  
-+ 列表
-+ 列表
-+ 列表
++ 这里是列表
++ 这里是列表
++ 这里是列表
 
-todolist:  
+todolist：  
 - [ ] 未被选中
 - [x] 已被选中
 
-高亮：`被高亮的文字`   
+高亮：`被高亮的文字`  
 引用区块：  
-> 区块内容
-> 区块内容  
+> 引用文字
+> 引用文字
 
-代码块：   
+代码块：  
 ```javascript
-//这里是注释
+//注释代码
 function fn() {}
 ```
 
 <div id="anchor"></div>
-[link]: http:/www.github.com/yandou/
 [img]: http://www.github.com/favicon.ico
-[^foot]: 这里是脚注内容
+[link]: http://www.github.com/yandou/
+[^foot]: 这里是脚注的内容
