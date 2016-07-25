@@ -1,9 +1,10 @@
-#7月24日，测试
+#7月25日
 
 转义：\~  
 删除：~~被删除~~  
 加粗：**被加粗**  
 倾斜：*被倾斜*  
+加粗倾斜：***被加粗倾斜***  
 脚注：[这里是脚注][^foot]  
 锚点：[这里是锚点](#anchor)  
 连接：[这里是连接](http://www.github.com/yandou/)  
@@ -27,27 +28,26 @@
 
 ---
 
-表格：   
-
+表格：
 
 |表头|表头|表头|
 |:---|:---:|---:|
 |单元格|单元格|单元格|
-|单元格，内容最对齐|单元格，居中对齐|单元格，内容右对齐|
+|单元格，内容左对齐|单元格，内容居中对齐|单元格，内容右对齐|
 
-
-列表：
-+ 列表
-+ 列表
+列表：  
+- 列表
+- 列表
 
 todolist：  
 - [ ] 未被选中
 - [x] 已被选中
 
-高亮：`被高亮的文字`  
+高亮：`被高亮`   
 引用区块：   
 > 区块
-> 区块 
+> 区块   
+
 
 代码块：   
 ```javascript
@@ -55,7 +55,7 @@ todolist：
 function fn() {}
 ```
 
-[link]: http://www.github.com/yandou/
-[img]: http://www.github.com/favicon.ico  
-[^foot]: 这里是脚注内容
 <div id="anchor"></div>
+[img]: http:/www.github.com/favicon.ico  
+[link]: http:/www.github.com/yandou/
+[^foot]: 这里是脚注内容
