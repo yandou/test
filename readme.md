@@ -1,4 +1,4 @@
-#8月3
+#8月4日，实例
 
 转义：\~  
 删除：~~删除~~  
@@ -7,7 +7,7 @@
 加粗倾斜：***加粗倾斜***  
 脚注：[脚注][^foot]  
 锚点：[锚点](#anchor)  
-连接：[连接](http://www.github.com/yandou/)  
+连接：[连接](http://www.github.com/yandou)   
 连接：[连接][link]  
 图片：![图片](http://www.github.com/favicon.ico)  
 图片：![图片][img]  
@@ -28,7 +28,7 @@
 
 ---
 
-表格：
+表格：  
 
 |表头|表头|表头|
 |:---|:---:|---:|
@@ -43,10 +43,11 @@ todolist：
 - [ ] 未选中
 - [x] 已选中
 
-高亮：`高亮`  
-区块：   
-> 引用区块  
-> 引用区块
+高亮：`被高亮`
+
+引用区块：  
+> 区块
+> 区块
 
 代码块：  
 ```javascript
@@ -54,8 +55,8 @@ todolist：
 function fn() {}
 ```
 
-<div id="anchor"></div>
-[^foot]: 脚注内容
-[link]: http://www.github.com/yandou/
-[img]: http://www.github.com/favicon.ico 
 
+<div id="anchor"></div>
+[link]: http://www.github.com/yandou/
+[img]: http://www.github.com/favicon.ico
+[^foot]: 脚注内容
