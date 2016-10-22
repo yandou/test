@@ -1,12 +1,12 @@
 \~
-~~删除~~
-**加粗**
-*倾斜*
-***倾斜加粗***
-[连接文字](http://www.baidu.com)
-[连接文字][link]
-![图片文字](http://www.github.com/favicon.ico)
-![图片文字][img]
+~~删除~~ 
+**加粗**  
+*倾斜*  
+***倾斜加粗***  
+[连接文字](http://www.baidu.com)  
+[连接文字][link]  
+![图片文字](http://www.github.com/favicon.ico)  
+![图片文字][img]  
 换行  
 段落
 
