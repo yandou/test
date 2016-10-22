@@ -37,3 +37,8 @@ function a() {
   alert(1);
 }
 ```
+
+
+[link]: http://www.github.com/yandou
+[img]: http://www.github.com/favicon.ico
+
