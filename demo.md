@@ -37,9 +37,8 @@ todoslit:
 function tese() {
   return 1123;	
 }
-
+```
 [img]: http://www.github.com/favicon.ico
 [link]: http://www.github.com/yandou/
 
-```
 
