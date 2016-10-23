@@ -3,7 +3,7 @@
 **加粗**  
 *倾斜*  
 ***加粗倾斜***  
-[连接](http://www.github.com/yandou)  
+[连接](http://www.github.com/yandou/)  
 [连接][link]  
 ![图片](http://www.github.com/favicon.ico)  
 ![图片][img]  
@@ -18,27 +18,28 @@
 :---|:---:|---:
 值|值|值
 
+
+- 列表
 - 列表
 - 列表
 
-todolist:
+todoslit:  
 
 - [ ] 未选中
 - [x] 已选中
 
-`高亮代码`
+`被高亮`
 
-> 引用区块  
-> 引用区块  
+> 区块  
+> 区块  
 
-代码块  
 ```javascript
-function a() {
-  alert(1);
+function tese() {
+  return 1123;	
 }
-```
 
-
-[link]: http://www.github.com/yandou
 [img]: http://www.github.com/favicon.ico
+[link]: http://www.github.com/yandou/
+
+```
 
